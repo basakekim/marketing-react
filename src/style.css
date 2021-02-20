@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&family=Source+Sans+Pro:&display=swap');
+
+.bg1 {
+    background-color: #071C35;
+}
+.bg2{
+    background-color: #F2F2F2;
+}
+
+.f {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+}
+
+.c1 {
+    color: #071C35;
+}
+.c2 {
+    color: #047469;
+}
+h1 {
+    font-size: 75px;
+    font-family: 'Barlow', sans-serif;
+}
+body{
+    background-color: #F9F9F9;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #7D90A6;
+    
+}
+
+.k {
+   
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    background-color:#047469 ;
+    
+}
+
+.d {
+    position: absolute;
+    left: 52.98%;
+    right: 22.41%;
+    top: 60.58%;
+    bottom: 86.06%;
+
+}
+
+  .btn-outline-nav {
+    color: #071C35 ;
+    background-color: transparent;
+    background-image: none;
+    border-color: #343a40;
+  }
+  
+  .btn-outline-nav:hover {
+    color: #fff;
+    background-color: #047469;
+    border-color: #343a40;
+  }
+  .btn-outline-na:hover {
+    color: #fff;
+    background-color: #047469;
+    border-color: #343a40;
+  }
+  
+  .navbar-nav > li > a{
+      color: #071C35;
+  }
+   .navbar-nav > li > a:hover,  .navbar-nav > li > a:focus {
+    background-color: #047469;
+    color: #ffffff;
+}
